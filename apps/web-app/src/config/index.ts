@@ -6,7 +6,7 @@ const title = 'React PWA';
 
 const email = 'kettenbach@gmail.com';
 
-const repository = 'https://github.com/hcabnettek/react-pwa';
+const repository = 'https://github.com/hcabnettek/react-graphql-dynamo';
 
 const messages = {
   app: {

@@ -1,14 +1,14 @@
 {
-  "name": "react-pwa",
+  "name": "react-graphql-dynamo",
   "version": "2.1.0",
   "description": "Starter kit for modern web applications",
-  "homepage": "https://react-pwa.kettenba.ch/",
+  "homepage": "https://react-graphql-dynamo.kettenba.ch/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hcabnettek/react-pwa.git"
+    "url": "https://github.com/hcabnettek/react-graphql-dynamo.git"
   },
   "bugs": {
-    "url": "https://github.com/hcabnettek/react-pwa/issues",
+    "url": "https://github.com/hcabnettek/react-graphql-dynamo/issues",
     "email": "kettenbach@gmail.com.com"
   },
   "license": "MIT",

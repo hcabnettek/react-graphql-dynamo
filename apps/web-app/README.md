@@ -1,4 +1,4 @@
-<a href="http://react-pwa.surenatoyan.com/" target="_blank" rel="noreferrer">
+<a href="http://react-graphql-dynamo.kettenba.ch/" target="_blank" rel="noreferrer">
  <img src="./public/cover.png" title="Base App">
 </a>
 
@@ -266,7 +266,7 @@ There are two more scripts:
 - `preview` command will boot up local static web server that serves the files from `dist` folder. It's an easy way to check if the production build looks OK in your local environment.
 - `https-preview` is the same, but with HTTPS. It's handy for testing your PWA capabilities in your local environment.
 
-## [Live Demo](https://react-pwa.surenatoyan.com/)
+## [Live Demo](https://react-graphql-dynamo.kettenba.ch/)
 
 <div>
  <img src="./public/demo-dark.png" width="280" title="Dark demo"> <img src="./public/demo-light.png" width="280" title="Light demo">
