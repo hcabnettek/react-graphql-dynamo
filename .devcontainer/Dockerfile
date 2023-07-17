@@ -55,10 +55,3 @@ RUN umask 0002 && npm install -g ${NODE_MODULES} \
 
 RUN echo $PATH
 RUN pnpm setup
-
-#ENV PNPM_HOME=/usr/local/share/npm-global/lib/node_modules/pnpm/bin
-#RUN export PATH=$PATH:/usr/local/share/npm-global/lib/node_modules/pnpm/bin
-#RUN echo "export PATH=$PATH:/usr/local/share/npm-global/lib/node_modules/pnpm/bin" >> ~/.bashrc \
-#    && source ~/.bashrc
-#ARG PNPM_MODULES="@nestjs/cli"
-#RUN su node -c "pnpm install --global ${PNPM_MODULES}"

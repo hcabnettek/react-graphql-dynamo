@@ -2,6 +2,12 @@ import { ThemeOptions } from '@mui/material/styles';
 import { deepmerge } from '@mui/utils';
 
 import { Themes } from './types';
+import { TypographyOptions } from '@mui/material/styles/createTypography';
+
+const typographyOptions: TypographyOptions = {
+  htmlFontSize: 16,
+  fontFamily: 'Poppins',
+};
 
 const sharedTheme = {
   palette: {
@@ -10,6 +16,7 @@ const sharedTheme = {
       paper: '#fff',
     },
   },
+  typography: typographyOptions,
   components: {
     MuiButtonBase: {
       defaultProps: {
