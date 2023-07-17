@@ -1,5 +1,5 @@
 import Typography from '@mui/material/Typography';
-
+import styles from './index.scss';
 import Meta from '@/components/Meta';
 import { FullSizeCenteredFlexBox } from '@/components/styled';
 
@@ -8,7 +8,11 @@ function Login() {
     <>
       <Meta title="Login or Register" />
       <FullSizeCenteredFlexBox>
-        <Typography variant="h3">Login</Typography>
+        <div className="wrapper">
+          <div className="form-box login">
+            <Typography variant="h2">Login</Typography>
+          </div>
+        </div>
       </FullSizeCenteredFlexBox>
     </>
   );
