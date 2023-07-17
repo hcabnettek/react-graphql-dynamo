@@ -22,7 +22,8 @@
         "esbenp.prettier-vscode",
         "DavidAnson.vscode-markdownlint",
         "ms-vscode-remote.remote-containers",
-        "prisma.prisma"
+        "yoavbls.pretty-ts-errors",
+        "aaron-bond.better-comments"
       ]
     }
   },
