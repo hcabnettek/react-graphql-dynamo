@@ -43,6 +43,12 @@ const routes: Routes = {
     component: asyncComponentLoader(() => import('@/pages/NotFound')),
     path: '*',
   },
+  [Pages.Login]: {
+    component: asyncComponentLoader(() => import('@/pages/Login')),
+    path: '/login',
+    title: 'Login',
+    icon: BugReportIcon,
+  },
 };
 
 export default routes;

@@ -1,7 +1,7 @@
 {
-  "name": "React PWA",
-  "short_name": "reactpwa",
-  "description": "Starter kit for modern web applications",
+  "name": "react-graphql-dynamo",
+  "short_name": "react-graphql-dynamo",
+  "description": "react-graphql-dynamo",
   "theme_color": "#ffffff",
   "icons": [
     {
