@@ -23,7 +23,8 @@
         "DavidAnson.vscode-markdownlint",
         "ms-vscode-remote.remote-containers",
         "yoavbls.pretty-ts-errors",
-        "aaron-bond.better-comments"
+        "aaron-bond.better-comments",
+        "ms-azuretools.vscode-docker"
       ]
     }
   },

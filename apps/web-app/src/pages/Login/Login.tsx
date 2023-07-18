@@ -6,7 +6,6 @@ import { FullSizeCenteredFlexBox } from '@/components/styled';
 import PersonIcon from '@mui/icons-material/Person';
 import LockIcon from '@mui/icons-material/Lock';
 import EmailIcon from '@mui/icons-material/Email';
-import { textTransform } from '@mui/system';
 
 function Login() {
   const [form, setForm] = useState<'login' | 'register'>('login');
